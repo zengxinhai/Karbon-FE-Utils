@@ -1,0 +1,24 @@
+{
+  "name": "karbon-fe-utils",
+  "version": "1.0.0",
+  "description": "Utilities for karbon front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengxinhai/Karbon-FE-Utils.git"
+  },
+  "keywords": [
+    "Karbon",
+    "Axios",
+    "Utility"
+  ],
+  "author": "IceFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengxinhai/Karbon-FE-Utils/issues"
+  },
+  "homepage": "https://github.com/zengxinhai/Karbon-FE-Utils#readme"
+}
