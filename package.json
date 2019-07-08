@@ -1,6 +1,6 @@
 {
   "name": "karbon-fe-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for karbon front end",
   "main": "index.js",
   "scripts": {
