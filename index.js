@@ -1,2 +1,2 @@
 export { createAuthRefreshInterceptor } from './axios-inteceptor';
-export { transformToCamelCaseKeys, transformToCamelCaseKeys } from './utils';
+export { transformToCamelCaseKeys, transformToUnderscoreKeys } from './utils';
